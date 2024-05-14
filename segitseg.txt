@@ -1,0 +1,7 @@
+npm install
+npm intall -g typescript
+
+tsc src/app.js
+tsc src/app.js --watch
+
+npm start
